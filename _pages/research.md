@@ -2,53 +2,118 @@
 title: "Research"
 layout: archive
 permalink: /research/
+author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /laramie-river.jpg
+  overlay_image: /hayes-laramie-river.jpg
   caption: "Laramie River, Colorado, 2018"
+  
+excerpt: "Integrating wildlife ecology with climate, behavior, and innovative technologies"
 
-excerpt: "Facilitating contemporary wildlife conservation through ecological study"
 ---
 
 {% include base_path %}
 
 
 
-# Research Interests
-
-## Ecological responses to climate changes
-
-One of the greatest challenges to conservation of Earth's biodiversity is the unprecedented and unabated change in climate. Understanding how these changes in temperature, precipitation, and other abiotic resources affect wildlife is critical to guiding conservation decisions to preserve biodiversity for this and future generations. Through research, I aim to inform our understanding of how climate impacts behavior of and resource selection by wildlife and, in turn, affects positive conservation outcomes through enhanced understanding of resource needs and shifting availability.
-
-
-## Effects of anthropogenic activity
-
-A growing population coupled with increased visitation to wild lands and novel forms of recreation create uncertain effects on wildlife. Some of the effects of recreation are relatively well studied, such as an increase in stress hormones with human presence. However, as human behavior changes, the scope and magnitude of impact is unclear. Some national parks recently have restricted visitation by limited entry permits, but how these restrictions influence wildlife and how many people is "too many" poorly understood. Through study of wildlife in these systems, I am interested in understanding how anthropogenic presence influences habituation, stress, and use of resources within these systems.
+<figure style="width: 280px" class="align-left">
+   <a href="/images/research/hayes-conservation-of-biodiversity.gif">
+  <img src="/images/research/hayes-conservation-of-biodiversity.gif" /></a>
+  <figcaption>Species translocated to <em>ex situ</em> refugia offer reservoirs for conservation.</figcaption>
+</figure>
 
 
-## Spatial ecology
 
-All animals use space; understanding which resources are important, how animals move across their habitats, and the impacts of changing resource availability is a foundation of effective conservation. Remote data capture through GPS receivers when coupled with advanced quantitative tools, such as Bayesian Resource Selection Functions (RSFs), allows us to study how animals use and interact with their landscape. I am interested in exploring how these methods can be used to inform proactive conservation through through mitigating contemporary challenges.
+<h2> Conserving biodiversity in a changing world </h2>
 
-
----------------------------
-
-&nbsp; 
+Rapidly warming climates challenge the persistence of many species as climatic shifts outpace species' capacity to adapt or relocate. Assisted migration offers one way humans can help species adapt, but concerns of introducing invasive species limit the practical utility of this approach. I investigate the value of translocated species and climate refugia and their role in the conservation of biodiversity.
 
 
-# Highlighted Research Projects
+<br clear="left"/>
 
-## Effects of climate and rapidly changing alpine environs on cold-adapted species 
 
-<img src="/images/research/oram-shed.svg" align="left" width="200px"/>
 
-The reliance of cold-adapted species on high-elevation environments, which are rapidly changing, challenges their long-term persistence. Great uncertainty remains about 1) individual-level responses to local climate (e.g., ambient temperature), 2) potential for adaptive habitat use under temperature alteration, and 3) ongoing changes in landscape-level resource availability. As a part of this project, I am studying the effects of local climate on resource selection and physiological responses of mountain goats (*Oreamnos americanus*) in the southern portion of their native range. Using *in situ* observations, I aim to better understand the importance of persistent snow for cold-adapted species to reduce heat stress and how resource availability will continue to alter under projected climate changes.
+--------------------------------------------------------------------------------
 
-## The influence of recreation on animal movement in national parks
 
-<img style='border:10px solid #FFFFFF' src="/images/research/hayes-oram-human.jpg" align="left" width="300px" class="ImageBorder"/>
 
-Recent increases in visitation to national parks has challenged the National Park Service's (NPS) dual mandate of preserving natural resources unimpaired while providing access to current and future generations. The growth in visitation has raised concerns about the effects of human recreation on the distribution, behavior, and demography of wildlife. While both permanent infrastructure and human presence is known to affect resource use by wildlife, disentangling these effects remains a challenge. In response to the COVID-19 pandemic, many national parks temporarily closed to visitors, virtually eliminating human presence within the parks. This closure offered the unprecedented opportunity to evaluate the effects of recreation on wildlife in an experimental framework. As a part of a broader collaboration - spanning 17 national parks and including 11 mammal species - I am working to separate the effects of persistent human infrastructure and recreation impacts on resource use by wildlife. 
+
+<figure style="width: 280px" class="align-left">
+  <img style='border:0px solid #FFFFFF' src="/images/research/oram-shed.png" align="left"/>
+  <figcaption>Cold-adapted species such as mountain goats may be especially vulnerable to climate change.</figcaption>
+</figure>
+
+
+
+
+<h2>Assessing impacts of climate change on vulnerable species</h2>
+
+The same adaptations to cold temperatures that enable species to persist at high latitudes and elevations make them among the most vulnerable species to warming climes. This is especially true for edge and southerly populations which are most likely to experience a mismatch between cold-adaptation and local environmental conditions. I study how climate affects physiological responses using *in situ* observations and how species alter patterns of spatial use to mitigate high thermal exposure.
+
+<br clear="left"/>
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+<figure style="width: 280px" class="align-left">
+  <img style='border:1px solid #000000' src="/images/research/hayes-oram-human.jpg">
+  <figcaption>As human recreation intensifies, human-wildlife interactions are increasingly common.</figcaption>
+</figure>
+
+
+<h2>Wildlife responses to human disturbance and recreation</h2>
+
+Recent growth in recreation and visitation to natural areas challenge existing infrastructure and lead to increased human-wildlife interactions. The location, frequency, and intensity of these interactions have implications for the distribution, behavior, and demography of wildlife. I collaboratively study the ecological dynamics of anthropogenic activity on animal populations across North America. This research facilitates the informed management of wild areas and reduction of human-wildlife conflict. 
+
+
+<br clear="left"/>
+
+
+
+--------------------------------------------------------------------------------
+
+
+<figure style="width: 280px" class="align-left">
+  <img src="/images/research/hayes-flight-distance.png" />
+  <figcaption>Muskoxen show remarkable adaptability to novel predators.</figcaption>
+</figure>
+
+
+<h2>Novel interactions in climate-altered landscapes</h2>
+
+Changing environmental conditions are increasingly resulting in species range shifts and novel wildlife community assemblages. Understanding these changes -- and resultant species interactions -- is fundamental to conservation of these populations. My research examines [competition over scarce resources](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714) and plasticity in prey-predator dynamics.
+
+
+<br clear="left"/>
+
+
+
+--------------------------------------------------------------------------------
+
+<figure style="width: 280px" class="align-left">
+  <img src="/images/research/hayes-game-camera.jpg" />
+  <figcaption>Novel methods are required to handle the exponential increase in data acquired from camera traps.</figcaption>
+</figure>
+
+
+
+<h2>Leveraging technology to facilitate data acquisition</h2>
+
+Incredible advances in technology (e.g., GPS collars, camera traps) have resulted in ever greater amounts of data collection. Despite their promise, the sheer volume of data collected creates another set of problems. I use cutting edge technology, such as the use of neural networks and artificial intelligence, to expedite use of these data.
+
+
+<br clear="left"/>
+
+
+
+
+--------------------------------------------------------------------------------
+<h2 style="text-align: center;">
+Collaboration
+</h2>
+
+Inclusive partnerships and collaboration are essential to addressing complex conservation challenges. I am always receptive to -- and eager to participate in -- collaborative projects that leverage diverse expertise, knowledge, and experiences to advance ecological research and conservation.
 
 <br clear="left"/>
