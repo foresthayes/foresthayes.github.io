@@ -76,8 +76,8 @@ Recent growth in recreation and visitation to natural areas challenge existing i
 
 
 <figure style="width: 280px" class="align-left">
-  <img src="/images/research/hayes-flight-distance.png" />
-  <figcaption>Muskoxen show remarkable adaptability to novel predators.</figcaption>
+  <img style='border:1px solid #000000' src="/images/research/goat-bighorn.jpg" />
+  <figcaption>Climate change may increase interspecific competition over scarce resources.</figcaption>
 </figure>
 
 
