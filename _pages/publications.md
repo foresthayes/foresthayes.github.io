@@ -11,7 +11,7 @@ header:
 
 ---
 
-**Hayes, F.P.** and J. Berger. _In Press_. Snow patch refugia benefits for species of periglacial zones – evidence from a high elevation obligate. PNAS Nexus.
+**Hayes, F.P.** and J. Berger. 2023. Snow patch refugia benefits for species of periglacial zones — Evidence from a high-elevation obligate. *PNAS Nexus*. 2(11).\[[Read Open Access](https://academic.oup.com/pnasnexus/article-lookup/doi/10.1093/pnasnexus/pgad339), <a href="./2023_Hayes and Berger_snow benefits.pdf">View PDF</a>\]
 
 Berger, J., M. Biel, and **F.P. Hayes**. 2022. Species conflict at Earth’s edges – Contests, climate, and coveted resources. *Frontiers in Ecology and Evolution*. 10:991714. \[[Read Open Access](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714), <a href="./2022_Berger et al_contests.pdf">View PDF</a>\]
 
