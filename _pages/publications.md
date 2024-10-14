@@ -11,7 +11,7 @@ header:
 
 ---
 
-**Hayes, F.P.** and J. Berger. 2024. Inadvertent climate refugia. *Conservation Letters*. e13063. \[[Read Open Access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent Climate Refugia.pdf">View PDF</a>\]
+**Hayes, F.P.** and J. Berger. 2024. Inadvertent climate refugia. *Conservation Letters*. e13063. \[[Read Open Access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent climate refugia.pdf">View PDF</a>\]
 
 **Hayes, F.P.** and J. Berger. 2023. Snow patch refugia benefits for species of periglacial zones — Evidence from a high-elevation obligate. *PNAS Nexus*. 2(11). \[[Read Open Access](https://academic.oup.com/pnasnexus/article-lookup/doi/10.1093/pnasnexus/pgad339), <a href="./2023_Hayes and Berger_snow benefits_ReducedSize.pdf">View PDF</a>\]
 
