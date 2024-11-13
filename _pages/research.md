@@ -7,12 +7,11 @@ header:
   overlay_image: /hayes-laramie-river.jpg
   caption: "Laramie River, Colorado, 2018"
   
-excerpt: "Integrating wildlife ecology with climate, behavior, and innovative technologies"
+excerpt: "Ecology, conservation, and wildlife biology"
 
 ---
 
 {% include base_path %}
-
 
 
 <figure style="width: 280px" class="align-left">
@@ -21,29 +20,18 @@ excerpt: "Integrating wildlife ecology with climate, behavior, and innovative te
   <figcaption>Species translocated to <em>ex situ</em> refugia offer reservoirs for conservation.</figcaption>
 </figure>
 
-
-
 <h2> Conserving biodiversity in a changing world </h2>
 
-Rapidly warming climates challenge the persistence of many species as climatic shifts outpace species' capacity to adapt or relocate. Assisted migration offers one way humans can help species adapt, but concerns of introducing invasive species limit the practical utility of this approach. I investigate the value of translocated species and climate refugia and their role in the conservation of biodiversity.
-
+Rapidly warming climates challenge the persistence of many species as shifts in climate outpace their ability to adapt or relocate. Assisted migration offers a potential solution, but concerns about impacts of invasive species have limited use of this approach. My research examines the value of translocated species located within climate refugia and highlights opportunities for applied conservation through bolstering native populations and providing a buffer against rapidly changing climates.
 
 <br clear="left"/>
 
-
-
 --------------------------------------------------------------------------------
-
-
-
 
 <figure style="width: 280px" class="align-left">
   <img style='border:0px solid #FFFFFF' src="/images/research/oram-shed.png" align="left"/>
   <figcaption>Cold-adapted species such as mountain goats may be especially vulnerable to climate change.</figcaption>
 </figure>
-
-
-
 
 <h2>Assessing impacts of climate change on vulnerable species</h2>
 
@@ -51,17 +39,12 @@ The same adaptations to cold temperatures that enable species to persist at high
 
 <br clear="left"/>
 
-
-
 --------------------------------------------------------------------------------
-
-
 
 <figure style="width: 280px" class="align-left">
   <img style='border:1px solid #000000' src="/images/research/hayes-oram-human.jpg">
   <figcaption>As human recreation intensifies, human-wildlife interactions are increasingly common.</figcaption>
 </figure>
-
 
 <h2>Wildlife responses to human disturbance and recreation</h2>
 
@@ -70,50 +53,43 @@ Recent growth in recreation and visitation to natural areas challenge existing i
 
 <br clear="left"/>
 
-
-
 --------------------------------------------------------------------------------
-
 
 <figure style="width: 280px" class="align-left">
   <img style='border:1px solid #000000' src="/images/research/goat-bighorn.jpg" />
   <figcaption>Climate change may increase interspecific competition over scarce resources.</figcaption>
 </figure>
 
-
 <h2>Novel interactions in climate-altered landscapes</h2>
 
-Changing environmental conditions are increasingly resulting in species range shifts and novel wildlife community assemblages. Understanding these changes -- and resultant species interactions -- is fundamental to conservation of these populations. My research examines [competition over scarce resources](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714) and plasticity in prey-predator dynamics.
+Changing environmental conditions are increasingly resulting in species range shifts and novel wildlife community assemblages. Understanding these changes -- and resultant species interactions -- is fundamental to conservation of these populations. My research examines [competition over scarce resources](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714 "Species conflict at Earth’s edges – Contests, climate, and coveted resources") and plasticity in prey-predator dynamics.
 
 
 <br clear="left"/>
-
-
 
 --------------------------------------------------------------------------------
 
 <figure style="width: 280px" class="align-left">
-  <img src="/images/research/hayes-game-camera.jpg" />
-  <figcaption>Novel methods are required to handle the exponential increase in data acquired from camera traps.</figcaption>
+  <img src="/images/research/animal_logo.png" />
+  <figcaption>Novel methods are required to handle the exponential increase in ecological data.</figcaption>
 </figure>
 
+<h2>Leveraging technology for wildlife science and conservation</h2>
 
-
-<h2>Leveraging technology to facilitate data acquisition</h2>
-
-Incredible advances in technology (e.g., GPS collars, camera traps) have resulted in ever greater amounts of data collection. Despite their promise, the sheer volume of data collected creates another set of problems. I use cutting edge technology, such as the use of neural networks and artificial intelligence, to expedite use of these data.
-
+Researchers are capturing more ecological data than ever before, thanks in part to the rapid expansion of remote monitoring technologies. While these data offer tremendous potential, their full value is often untapped due to processing and analytical challenges. My work leverages cutting-edge tools such as machine learning and artificial intelligence to make these data more accessible and to reduce human effort and processing time.
 
 <br clear="left"/>
 
-
-
-
 --------------------------------------------------------------------------------
+
+<figure style="width: 280px" class="align-left">
+  <img style='border:1px solid #000000' src="/images/research/hayes-collaboration.jpg" />
+</figure>
+
 <h2 style="text-align: center;">
 Collaboration
 </h2>
 
-Inclusive partnerships and collaboration are essential to addressing complex conservation challenges. I am always receptive to -- and eager to participate in -- collaborative projects that leverage diverse expertise, knowledge, and experiences to advance ecological research and conservation.
+Collaboration is key to addressing complex conservation challenges. I welcome opportunities to engage in cooperative research that leverages diverse expertise, perspectives, and skill-sets to advance ecological research and conservation of wildlife.
 
 <br clear="left"/>
