@@ -8,7 +8,6 @@ header:
   caption: "North Park, Colorado 2019"
 ---
 
-<!-- CSS style code -->
 <style>
   .highlight {
     background-color: #fff2b3; /* Soft yellow background */
@@ -64,54 +63,6 @@ header:
   }
 </style>
 
-<!-- JavaScript for interactive filter -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Highlights publications based on selected topic
-    function highlightPublications(topic = null) {
-      const publications = document.querySelectorAll('.publication');
-      publications.forEach(pub => {
-        const topics = pub.getAttribute('data-topics').split(',').map(t => t.trim());
-        pub.classList.toggle('highlight', topics.includes(topic)); // Toggle highlight class based on match
-      });
-    }
-
-    // Toggles the active state of topic buttons and applies filtering
-    function toggleTopicFilter(topic) {
-      const button = document.querySelector(`#topic-buttons button[data-topic="${topic}"]`);
-      
-      // If the button already has the 'active' class, remove it, and show all publications
-      if (button.classList.contains('active')) {
-        button.classList.remove('active');
-        highlightPublications(); // Remove filter (show all)
-      } else {
-        // Otherwise, remove active state from all buttons
-        clearActiveButtons();
-        button.classList.add('active');
-        highlightPublications(topic); // Apply highlight for selected topic
-      }
-    }
-
-    // Clears the active state from all topic buttons
-    function clearActiveButtons() {
-      const buttons = document.querySelectorAll('#topic-buttons button');
-      buttons.forEach(button => button.classList.remove('active'));
-    }
-
-    // Run on page load to check for any pre-applied filter (e.g., via URL query)
-    const urlParams = new URLSearchParams(window.location.search);
-    const topic = urlParams.get('topic');
-    if (topic) toggleTopicFilter(topic); // Apply filter based on URL parameter
-
-    // Attach event listeners to buttons
-    const buttons = document.querySelectorAll('#topic-buttons button');
-    buttons.forEach(button => {
-      button.addEventListener('click', function() {
-        toggleTopicFilter(button.getAttribute('data-topic'));
-      });
-    });
-  });
-</script>
 
 # Publications
 --------------------------------------------------------------------------------
@@ -187,3 +138,54 @@ Coverage of "Species conflict at Earth’s edges – Contests, climate, and cove
 See more on [Altmetric](https://frontiers.altmetric.com/details/137313015)
 
 Coverage of research on moose in Colorado: [Colorado Parks and Wildlife](https://youtu.be/fIFQTJpqzoo)
+
+
+{% raw %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Function to highlight publications based on selected topic
+    function highlightPublications(topic = null) {
+        const publications = document.querySelectorAll('.publication');
+        publications.forEach(pub => {
+            const topics = pub.getAttribute('data-topics').split(',').map(t => t.trim());
+            pub.classList.toggle('highlight', topics.includes(topic));
+        });
+    }
+
+    // Toggle the topic filter on and off
+    function toggleTopicFilter(topic) {
+        const button = document.querySelector(`#topic-buttons button[data-topic="${topic}"]`);
+        if (button.classList.contains('active')) {
+            button.classList.remove('active');
+            highlightPublications();  // Show all publications
+        } else {
+            clearActiveButtons();
+            button.classList.add('active');
+            highlightPublications(topic);  // Highlight selected publications
+        }
+    }
+
+    // Clear active buttons
+    function clearActiveButtons() {
+        const buttons = document.querySelectorAll('#topic-buttons button');
+        buttons.forEach(button => button.classList.remove('active'));
+    }
+
+    // Check for topic query parameter in the URL and apply filter if necessary
+    const urlParams = new URLSearchParams(window.location.search);
+    const topic = urlParams.get('topic');
+    if (topic) {
+        toggleTopicFilter(topic);
+    }
+
+    // Event listeners for each topic button
+    const buttons = document.querySelectorAll('#topic-buttons button');
+    buttons.forEach(button => {
+        button.addEventListener('click', function() {
+            const topic = button.getAttribute('data-topic');
+            toggleTopicFilter(topic);
+        });
+    });
+  });
+</script>
+{% endraw %}
