@@ -6,9 +6,8 @@ author_profile: true
 header:
   image: /hayes-aerial-pines.jpg
   caption: "North Park, Colorado 2019"
-
-
 ---
+
 <!-- CSS style code -->
 <style>
   .highlight {
@@ -65,47 +64,54 @@ header:
   }
 </style>
 
-
-<!-- Java script for interactive filter -->
+<!-- JavaScript for interactive filter -->
 <script>
-  // Highlights publications based on selected topic
-  function highlightPublications(topic = null) {
-    const publications = document.querySelectorAll('.publication');
-    publications.forEach(pub => {
-      const topics = pub.getAttribute('data-topics').split(',').map(t => t.trim());
-      pub.classList.toggle('highlight', topics.includes(topic)); // Toggle highlight class based on match
-    });
-  }
-
-  // Toggles the active state of topic buttons and applies filtering
-  function toggleTopicFilter(topic) {
-    const button = document.querySelector(`#topic-buttons button[onclick*="${topic}"]`);
-    
-    if (button.classList.contains('active')) {
-      button.classList.remove('active');
-      highlightPublications(); // Remove filter (show all)
-    } else {
-      clearActiveButtons(); // Remove active state from other buttons
-      button.classList.add('active');
-      highlightPublications(topic); // Apply highlight for selected topic
-    }
-  }
-
-  // Clears active state from all buttons
-  function clearActiveButtons() {
-    const buttons = document.querySelectorAll('#topic-buttons button');
-    buttons.forEach(button => button.classList.remove('active'));
-  }
-
-  // Run on page load to check for any pre-applied filter (e.g., via URL query)
   document.addEventListener('DOMContentLoaded', function() {
+    // Highlights publications based on selected topic
+    function highlightPublications(topic = null) {
+      const publications = document.querySelectorAll('.publication');
+      publications.forEach(pub => {
+        const topics = pub.getAttribute('data-topics').split(',').map(t => t.trim());
+        pub.classList.toggle('highlight', topics.includes(topic)); // Toggle highlight class based on match
+      });
+    }
+
+    // Toggles the active state of topic buttons and applies filtering
+    function toggleTopicFilter(topic) {
+      const button = document.querySelector(`#topic-buttons button[data-topic="${topic}"]`);
+      
+      // If the button already has the 'active' class, remove it, and show all publications
+      if (button.classList.contains('active')) {
+        button.classList.remove('active');
+        highlightPublications(); // Remove filter (show all)
+      } else {
+        // Otherwise, remove active state from all buttons
+        clearActiveButtons();
+        button.classList.add('active');
+        highlightPublications(topic); // Apply highlight for selected topic
+      }
+    }
+
+    // Clears the active state from all topic buttons
+    function clearActiveButtons() {
+      const buttons = document.querySelectorAll('#topic-buttons button');
+      buttons.forEach(button => button.classList.remove('active'));
+    }
+
+    // Run on page load to check for any pre-applied filter (e.g., via URL query)
     const urlParams = new URLSearchParams(window.location.search);
     const topic = urlParams.get('topic');
     if (topic) toggleTopicFilter(topic); // Apply filter based on URL parameter
+
+    // Attach event listeners to buttons
+    const buttons = document.querySelectorAll('#topic-buttons button');
+    buttons.forEach(button => {
+      button.addEventListener('click', function() {
+        toggleTopicFilter(button.getAttribute('data-topic'));
+      });
+    });
   });
 </script>
-
-
 
 # Publications
 --------------------------------------------------------------------------------
@@ -113,11 +119,11 @@ header:
 <div id="topic-buttons-wrapper">
   <h3>Highlight by research area:</h3>
   <div id="topic-buttons">
-    <button onclick="toggleTopicFilter('Climate')" id="climate-btn">Climate</button>
-    <button onclick="toggleTopicFilter('Biodiversity')" id="biodiversity-btn">Biodiversity</button>
-    <button onclick="toggleTopicFilter('Behavioral Ecology')" id="behavioral-btn">Behavioral Ecology</button>
-    <button onclick="toggleTopicFilter('Population Ecology')" id="population-btn">Population Ecology</button>
-    <button onclick="toggleTopicFilter('Movement Ecology')" id="movement-btn">Movement Ecology</button>
+    <button data-topic="Climate" id="climate-btn">Climate</button>
+    <button data-topic="Biodiversity" id="biodiversity-btn">Biodiversity</button>
+    <button data-topic="Behavioral Ecology" id="behavioral-btn">Behavioral Ecology</button>
+    <button data-topic="Population Ecology" id="population-btn">Population Ecology</button>
+    <button data-topic="Movement Ecology" id="movement-btn">Movement Ecology</button>
   </div>
 </div>
 
@@ -161,7 +167,6 @@ Bergman E.J., **F.P. Hayes**, P.M. Lukacs, and C.J. Bishop. 2020. Moose calf det
 # Press and media
 
 --------------------------------------------------------------------------------
-
 
 Coverage of "Species conflict at Earth’s edges – Contests, climate, and coveted resources": [The Washington Post](https://www.washingtonpost.com/climate-environment/2022/10/17/goats-bighorn-sheep-glacier-salt) 
 •
