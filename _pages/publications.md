@@ -15,7 +15,7 @@ header:
     padding: 10px 15px;
     padding-right: 50px;
     border-radius: 8px;
-    background-color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.01);
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease, background-color 0.3s ease;
     position: relative;
@@ -99,7 +99,7 @@ header:
     margin-bottom: 15px;
     padding: 10px 15px;
     border-radius: 8px;
-    background-color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.01);
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease, background-color 0.3s ease;
     position: relative;
@@ -125,7 +125,13 @@ header:
   </div>
 </div>
 
- <!--span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In Press</span> -->
+<!--span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span> -->
+
+<span class="publication" data-topics="Climate, Behavioral Ecology">
+  <span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span>
+  <span class="publication-number">9</span>
+  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation*.
+</span>
 
 <span class="publication" data-topics="Climate, Biodiversity, Population Ecology">
   <span class="publication-number">8</span>
