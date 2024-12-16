@@ -130,12 +130,12 @@ header:
 <span class="publication" data-topics="Climate, Behavioral Ecology">
   <span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span>
   <span class="publication-number">9</span>
-  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation*.
+  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation*. \[[Open access](https://doi.org/10.1016/j.gecco.2024.e03364)\]
 </span>
 
 <span class="publication" data-topics="Climate, Biodiversity, Population Ecology">
   <span class="publication-number">8</span>
-  **Hayes, F.P.** and J. Berger. 2024. Inadvertent climate refugia. *Conservation Letters*. e13063. \[[Open access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent climate refugia.pdf">PDF</a>\]
+  **Hayes, F.P.** and J. Berger. 2024. Inadvertent climate refugia. *Conservation Letters*. e13063. \[[Open access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent climate refugia.pdf">PDF</a>, <a href="/images/publications/hayes-CONSLcover-2024.jpg">Journal cover</a>\]
 </span>
 
 <span class="publication" data-topics="Climate, Behavioral Ecology">
