@@ -129,7 +129,7 @@ header:
 
 <span class="publication" data-topics="Climate, Behavioral Ecology">
   <span class="publication-number">9</span>
-  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. 2025. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation* (57):e03364. \[[Open access](https://doi.org/10.1016/j.gecco.2024.e03364)\]
+  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. 2025. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation* (57):e03364. \[[Open access](https://doi.org/10.1016/j.gecco.2024.e03364), <a href="./2025_White et al_mtn goat climate review.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Climate, Biodiversity, Population Ecology">
@@ -169,7 +169,7 @@ header:
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">1</span>
-  **Hayes, F.P.**, M.J. Dodrill, B.S. Gerig, C. Finch, and W.E. Pine, III. 2017. Body condition of endangered Humpback Chub in relation to temperature and discharge in the lower Colorado River. *Journal of Fish and Wildlife Management* 8(1): 333-342. \[[Open access](https://doi.org/10.3996/062014-JFWM-047), <a href="./2017_Hayes et al_Humpback Chub condition.pdf">PDF</a>\]
+  **Hayes, F.P.**, M.J. Dodrill, B.S. Gerig, C. Finch, and W.E. Pine, III. 2017. Body condition of endangered Humpback Chub in relation to temperature and discharge in the lower Colorado River. *Journal of Fish and Wildlife Management* 8(1):333-342. \[[Open access](https://doi.org/10.3996/062014-JFWM-047), <a href="./2017_Hayes et al_Humpback Chub condition.pdf">PDF</a>\]
 </span>
 
 
