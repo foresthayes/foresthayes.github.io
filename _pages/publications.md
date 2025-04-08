@@ -149,7 +149,7 @@ header:
 
 <span class="publication" data-topics="Movement Ecology">
   <span class="publication-number">5</span>
-  Harris, R.B, **F.P. Hayes**, C.G. Rice, and D.J. Vales. 2022. Landscape factors inhibiting mountain goat movements: A contribution to delineating demographic units. *Biennial Symposium of the Northern Wild Sheep and Goat Council* 23:12-26. \[[Open access](http://www.nwsgc.org/proceedings/NWSGC_2022/2022-Harris-et-al.pdf), <a href="./2022_Harris et al_factors inhibiting movement.pdf">PDF</a>\]
+  Harris, R.B, **F.P. Hayes**, C.G. Rice, and D.J. Vales. 2022. Landscape factors inhibiting mountain goat movements: A contribution to delineating demographic units. *Biennial Symposium of the Northern Wild Sheep and Goat Council* 23:12-26. \[[Open access](http://www.nwsgc.net/proceedings/NWSGC_2022/2022-Harris-et-al.pdf), <a href="./2022_Harris et al_factors inhibiting movement.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
