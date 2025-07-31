@@ -129,7 +129,6 @@ header:
 
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
   <span class="publication-number">10</span>
-  
   Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, C. Aiello7, J.L. Belant, J. Berger, M. Biel, J. Bright, J. Bump, M. Burchett, C. Butler, J. Carlson, E.K. Cole, N. Darby, E. DeGutis, S. Dewey, P. Figura, T. Gable, J. Gagnon, D.M. Glass, J.R. Green, K. Gunther, M. Haroldson, K. Hersey, B. Holton, A. Homkes, S.R. Hoy, D. Hughson, K. Joly, R. Leahy, C. Lee-Roney, R. Lester, D. MacNulty, M. Magnuson, D. Martin, R. Mazur, S. Moore, E.K. Orning, K. Patrick, R.O. Peterson, L. Potvin, P.R. Prentice, S.P.D. Riley, M. Romanski, A. Roug, J.A. Sikich, N. Simpson, W. Sloan, D.W. Smith, M. Sorum, S. Sprague, D. Stahler, J. Stephenson, T.R. Stephenson, J. Stroud-Settles, F. van Manen, J.A. Vucetich, K. Wilmot, S. Windels, T. Wolf, and P. Cross. 2025. The influence of human presence and footprint on animal space use in US national parks. *Proceedings of the Royal Society B* 292:20251013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
 </span>
 <span class="publication" data-topics="Climate, Behavioral Ecology">
