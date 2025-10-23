@@ -129,7 +129,7 @@ header:
 
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
   <span class="publication-number">10</span>
-  Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, C. Aiello, J.L. Belant, J. Berger, M. Biel, J. Bright, J. Bump, M. Burchett, C. Butler, J. Carlson, E.K. Cole, N. Darby, E. DeGutis, S. Dewey, P. Figura, T. Gable, J. Gagnon, D.M. Glass, J.R. Green, K. Gunther, M. Haroldson, K. Hersey, B. Holton, A. Homkes, S.R. Hoy, D. Hughson, K. Joly, R. Leahy, C. Lee-Roney, R. Lester, D. MacNulty, M. Magnuson, D. Martin, R. Mazur, S. Moore, E.K. Orning, K. Patrick, R.O. Peterson, L. Potvin, P.R. Prentice, S.P.D. Riley, M. Romanski, A. Roug, J.A. Sikich, N. Simpson, W. Sloan, D.W. Smith, M. Sorum, S. Sprague, D. Stahler, J. Stephenson, T.R. Stephenson, J. Stroud-Settles, F. van Manen, J.A. Vucetich, K. Wilmot, S. Windels, T. Wolf, and P. Cross. 2025. **The influence of human presence and footprint on animal space use in US national parks**. *Proceedings of the Royal Society B* 292:20251013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
+  Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, (...), and P. Cross. 2025. **The influence of human presence and footprint on animal space use in US national parks**. *Proceedings of the Royal Society B* 292:20251013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
 </span>
 
 <!--
@@ -142,47 +142,47 @@ Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C
 
 <span class="publication" data-topics="Climate, Behavioral Ecology">
   <span class="publication-number">9</span>
-  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. 2025. **Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>)**. *Global Ecology and Conservation* (57):e03364. \[[Open access](https://doi.org/10.1016/j.gecco.2024.e03364), <a href="./2025_White et al_mtn goat climate review.pdf">PDF</a>\]
+  White, K.S., B. Cadsand, S.D. Côté, T. Graves, S. Hamel, R.B. Harris, **F.P. Hayes**, E. Hood, K. Hurley, T. Jessen, B. Jex, E. Peitzsch, W. Sarmento, H. Schwantje, and J. Berger. 2025. Mountain sentinels in a changing world: review and conservation implications of weather and climate effects on mountain goats (<em>Oreamnos americanus</em>). *Global Ecology and Conservation* (57):e03364. \[[Open access](https://doi.org/10.1016/j.gecco.2024.e03364), <a href="./2025_White et al_mtn goat climate review.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Climate, Biodiversity, Population Ecology">
   <span class="publication-number">8</span>
-  **Hayes, F.P.** and J. Berger. 2024. **Inadvertent climate refugia**. *Conservation Letters* 17(6):e13063. \[[Open access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent climate refugia.pdf">PDF</a>, <a href="/images/publications/hayes-CONSLcover-2024.jpg">Journal cover</a>\]
+  **Hayes, F.P.** and J. Berger. 2024. Inadvertent climate refugia. *Conservation Letters* 17(6):e13063. \[[Open access](https://doi.org/10.1111/conl.13063), <a href="./2024_Hayes and Berger_Inadvertent climate refugia.pdf">PDF</a>, <a href="/images/publications/hayes-CONSLcover-2024.jpg">Journal cover</a>\]
 </span>
 
 <span class="publication" data-topics="Climate, Behavioral Ecology">
   <span class="publication-number">7</span>
-  **Hayes, F.P.** and J. Berger. 2023. **Snow patch refugia benefits for species of periglacial zones — Evidence from a high-elevation obligate**. *PNAS Nexus* 2(11):pgad339. \[[Open access](https://academic.oup.com/pnasnexus/article-lookup/doi/10.1093/pnasnexus/pgad339), <a href="./2023_Hayes and Berger_snow benefits_ReducedSize.pdf">PDF</a>\]
+  **Hayes, F.P.** and J. Berger. 2023. Snow patch refugia benefits for species of periglacial zones — Evidence from a high-elevation obligate. *PNAS Nexus* 2(11):pgad339. \[[Open access](https://academic.oup.com/pnasnexus/article-lookup/doi/10.1093/pnasnexus/pgad339), <a href="./2023_Hayes and Berger_snow benefits_ReducedSize.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Climate, Behavioral Ecology">
   <span class="publication-number">6</span>
-  Berger, J., M. Biel, and **F.P. Hayes**. 2022. **Species conflict at Earth’s edges – Contests, climate, and coveted resources**. *Frontiers in Ecology and Evolution* 10:991714. \[[Open access](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714), <a href="./2022_Berger et al_contests.pdf">PDF</a>\]
+  Berger, J., M. Biel, and **F.P. Hayes**. 2022. Species conflict at Earth’s edges – Contests, climate, and coveted resources. *Frontiers in Ecology and Evolution* 10:991714. \[[Open access](https://www.frontiersin.org/articles/10.3389/fevo.2022.991714), <a href="./2022_Berger et al_contests.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Movement Ecology">
   <span class="publication-number">5</span>
-  Harris, R.B, **F.P. Hayes**, C.G. Rice, and D.J. Vales. 2022. **Landscape factors inhibiting mountain goat movements: A contribution to delineating demographic units**. *Biennial Symposium of the Northern Wild Sheep and Goat Council* 23:12-26. \[[Open access](http://www.nwsgc.net/proceedings/NWSGC_2022/2022-Harris-et-al.pdf), <a href="./2022_Harris et al_factors inhibiting movement.pdf">PDF</a>\]
+  Harris, R.B, **F.P. Hayes**, C.G. Rice, and D.J. Vales. 2022. Landscape factors inhibiting mountain goat movements: A contribution to delineating demographic units. *Biennial Symposium of the Northern Wild Sheep and Goat Council* 23:12-26. \[[Open access](http://www.nwsgc.net/proceedings/NWSGC_2022/2022-Harris-et-al.pdf), <a href="./2022_Harris et al_factors inhibiting movement.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">4</span>
-  **Hayes, F.P.**, J.J. Millspaugh, E.J. Bergman, R.M. Callaway, and C.J. Bishop. 2022. **Effects of willow nutrition and morphology on calving success of moose**. *Journal of Wildlife Management* 86(2):e22175. \[[Link](https://doi.org/10.1002/jwmg.22175), <a href="./2021_Hayes et al_moose calving success_authors copy.pdf">PDF (accepted version)</a>, <a href="/images/publications/hayes-JWMcover-2022.jpg">Journal cover</a>\]
+  **Hayes, F.P.**, J.J. Millspaugh, E.J. Bergman, R.M. Callaway, and C.J. Bishop. 2022. Effects of willow nutrition and morphology on calving success of moose. *Journal of Wildlife Management* 86(2):e22175. \[[Link](https://doi.org/10.1002/jwmg.22175), <a href="./2021_Hayes et al_moose calving success_authors copy.pdf">PDF (accepted version)</a>, <a href="/images/publications/hayes-JWMcover-2022.jpg">Journal cover</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">3</span>
-  Bergman E.J., **F.P. Hayes**, and K. Aagaard. 2020. **Estimation of moose parturition dates in Colorado: incorporating imperfect detections**. *Alces* 56:127–135. \[[Open access](https://alcesjournal.org/index.php/alces/article/view/277), <a href="./2020_Bergman et al_parturition.pdf">PDF</a>\]
+  Bergman E.J., **F.P. Hayes**, and K. Aagaard. 2020. Estimation of moose parturition dates in Colorado: incorporating imperfect detections. *Alces* 56:127–135. \[[Open access](https://alcesjournal.org/index.php/alces/article/view/277), <a href="./2020_Bergman et al_parturition.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">2</span>
-  Bergman E.J., **F.P. Hayes**, P.M. Lukacs, and C.J. Bishop. 2020. **Moose calf detection probabilities: quantification and elevation of a ground-based survey technique**. *Wildlife Biology* 2020(2):wlb.00599. \[[Open access](https://doi.org/10.2981/wlb.00599), <a href="./2020_Bergman et al_calf detection.pdf">PDF</a>\]
+  Bergman E.J., **F.P. Hayes**, P.M. Lukacs, and C.J. Bishop. 2020. Moose calf detection probabilities: quantification and elevation of a ground-based survey technique. *Wildlife Biology* 2020(2):wlb.00599. \[[Open access](https://doi.org/10.2981/wlb.00599), <a href="./2020_Bergman et al_calf detection.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">1</span>
-  **Hayes, F.P.**, M.J. Dodrill, B.S. Gerig, C. Finch, and W.E. Pine, III. 2017. **Body condition of endangered Humpback Chub in relation to temperature and discharge in the lower Colorado River**. *Journal of Fish and Wildlife Management* 8(1):333-342. \[[Open access](https://doi.org/10.3996/062014-JFWM-047), <a href="./2017_Hayes et al_Humpback Chub condition.pdf">PDF</a>\]
+  **Hayes, F.P.**, M.J. Dodrill, B.S. Gerig, C. Finch, and W.E. Pine, III. 2017. Body condition of endangered Humpback Chub in relation to temperature and discharge in the lower Colorado River. *Journal of Fish and Wildlife Management* 8(1):333-342. \[[Open access](https://doi.org/10.3996/062014-JFWM-047), <a href="./2017_Hayes et al_Humpback Chub condition.pdf">PDF</a>\]
 </span>
 
 
