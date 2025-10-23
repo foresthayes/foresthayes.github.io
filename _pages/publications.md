@@ -129,7 +129,7 @@ header:
 
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
   <span class="publication-number">10</span>
-  Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, (...), and P. Cross. 2025. **The influence of human presence and footprint on animal space use in US national parks**. *Proceedings of the Royal Society B* 292:20251013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
+  Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, (...), and P. Cross. 2025. The influence of human presence and footprint on animal space use in US national parks. *Proceedings of the Royal Society B* 292:20251013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
 </span>
 
 <!--
@@ -172,12 +172,12 @@ Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">3</span>
-  Bergman E.J., **F.P. Hayes**, and K. Aagaard. 2020. Estimation of moose parturition dates in Colorado: incorporating imperfect detections. *Alces* 56:127–135. \[[Open access](https://alcesjournal.org/index.php/alces/article/view/277), <a href="./2020_Bergman et al_parturition.pdf">PDF</a>\]
+  Bergman, E.J., **F.P. Hayes**, and K. Aagaard. 2020. Estimation of moose parturition dates in Colorado: incorporating imperfect detections. *Alces* 56:127–135. \[[Open access](https://alcesjournal.org/index.php/alces/article/view/277), <a href="./2020_Bergman et al_parturition.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
   <span class="publication-number">2</span>
-  Bergman E.J., **F.P. Hayes**, P.M. Lukacs, and C.J. Bishop. 2020. Moose calf detection probabilities: quantification and elevation of a ground-based survey technique. *Wildlife Biology* 2020(2):wlb.00599. \[[Open access](https://doi.org/10.2981/wlb.00599), <a href="./2020_Bergman et al_calf detection.pdf">PDF</a>\]
+  Bergman, E.J., **F.P. Hayes**, P.M. Lukacs, and C.J. Bishop. 2020. Moose calf detection probabilities: quantification and elevation of a ground-based survey technique. *Wildlife Biology* 2020(2):wlb.00599. \[[Open access](https://doi.org/10.2981/wlb.00599), <a href="./2020_Bergman et al_calf detection.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Population Ecology">
