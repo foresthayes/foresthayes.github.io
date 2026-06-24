@@ -127,6 +127,12 @@ header:
 
 <!--span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span> -->
 
+<span class="publication" data-topics="Behavioral Ecology, Climate, Movement Ecology">
+  style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span>
+  <span class="publication-number">11</span>
+  **Hayes, F.P.**, L.L. Bailey, K.R. Wilson, D. McGrath, M. Biel, and. J. Berger. 2026. High temperatures alter core behaviors of mountain goats (*Oreamnos americanus*), a cold-adapted species. *Mammalogy*. DOI: 10.1093/jmammal/gyag064. 
+</span>
+
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
   <span class="publication-number">10</span>
   Gaynor, K.M., **F.P. Hayes**, K. Manlove, N. Galloway, J.F. Benson, M. Cherry, C.W. Epps, R.J. Fletcher Jr., J. Orrock, J.A. Smith, (...), and P. Cross. 2025. The influence of human presence and footprint on animal space use in US national parks. *Proceedings of the Royal Society B*, 292:20251013. DOI: 10.1098/rspb.2025.1013. \[[Open access](https://doi.org/10.1098/rspb.2025.1013), <a href="./2025_Gaynor et al_influence of human presence on animal space use.pdf">PDF</a>\]
