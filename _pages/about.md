@@ -1,12 +1,7 @@
 ---
-
-
 header:
   image: /hayes-mountaingoat.jpg
   caption: "Glacier National Park, Montana 2020"
-
-
-
 
 permalink: /
 title: "Forest P. Hayes"
@@ -14,8 +9,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  
-  
 ---
 
 Forest is an ecologist and postdoctoral fellow at Colorado State University in the [Colorado Cooperative Fish and Wildlife Research Unit](https://warnercnr.colostate.edu/fwcb/cooperative-fish-wildlife-research-unit/) and 

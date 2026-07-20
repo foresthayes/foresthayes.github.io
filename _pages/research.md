@@ -30,7 +30,7 @@ Rapidly warming climates challenge the persistence of many species as shifts in 
 
 <figure style="width: 280px" class="align-left">
   <img style='border:0px solid #FFFFFF' src="/images/research/oram-shed.png" align="left"/>
-  <figcaption>Cold-adapted species like mountain goats are vulnerable to climate change (Hayes et al, 2023).</figcaption>
+  <figcaption>Cold-adapted species like mountain goats are vulnerable to climate change (Hayes et al. 2023).</figcaption>
 </figure>
 
 <h2>Vulnerable species</h2>
