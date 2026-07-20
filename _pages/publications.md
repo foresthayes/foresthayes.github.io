@@ -7,109 +7,6 @@ header:
   image: /hayes-aerial-pines.jpg
   caption: "North Park, Colorado 2019"
 ---
-<style>
-  /* General publication entry layout */
-  .publication {
-    display: block;
-    margin-bottom: 15px;
-    padding: 10px 15px;
-    padding-right: 50px;
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 0.01);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease, background-color 0.3s ease;
-    position: relative;
-  }
-
-  /* Publication number styling */
-  .publication-number {
-    position: absolute;
-    top: 50%;
-    right: 15px;
-    transform: translateY(-50%);
-    font-size: 2em;
-    font-weight: bold;
-    color: rgba(0, 0, 0, 0.05);
-    z-index: 10;
-  }
-
-  /* Highlighted publications with yellow background */
-  .publication.highlight {
-    background-color: #fff2b3;
-  }
-
-  /* Improve readability */
-  .publication * {
-    line-height: 1.6;
-  }
-
-  /* Topic filter section */
-  #topic-buttons-wrapper {
-    background-color: #f4f4f4;
-    padding: 8px 12px;
-    border-radius: 12px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 15px;
-    text-align: center;
-  }
-
-  /* Heading for filter section */
-  #topic-buttons-wrapper h3 {
-    font-size: 1.2em;
-    font-weight: 600;
-    color: #444;
-    margin: 0 0 8px;
-    text-align: center;
-    padding: 4px 0;
-  }
-
-  /* Layout for filter buttons */
-  #topic-buttons {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-  }
-
-  /* Filter button style */
-  #topic-buttons button {
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-
-  /* Hover effect for buttons */
-  #topic-buttons button:hover {
-    background-color: #45a049;
-  }
-
-  /* Active button style */
-  #topic-buttons button.active {
-    background-color: #FF5722;
-  }
-  
-    /* General media entry layout */
-  .media {
-    display: block;
-    margin-bottom: 15px;
-    padding: 10px 15px;
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 0.01);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.3s ease, background-color 0.3s ease;
-    position: relative;
-  }
-
-  
-</style>
-
-
-
 
 # Publications
 --------------------------------------------------------------------------------
@@ -130,7 +27,7 @@ header:
 <span class="publication" data-topics="Behavioral Ecology, Climate, Movement Ecology">
   <span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span>
   <span class="publication-number">11</span>
-  **Hayes, F.P.**, L.L. Bailey, K.R. Wilson, D. McGrath, M. Biel, and. J. Berger. 2026. High temperatures alter core behaviors of mountain goats (*Oreamnos americanus*), a cold-adapted species. *Mammalogy*. DOI: 10.1093/jmammal/gyag064. 
+  **Hayes, F.P.**, L.L. Bailey, K.R. Wilson, D. McGrath, M. Biel, and. J. Berger. 2026. High temperatures alter core behaviors of mountain goats (*Oreamnos americanus*), a cold-adapted species. *Mammalogy*. DOI: 10.1093/jmammal/gyag064. \[[Open access](https://doi.org/10.1093/jmammal/gyag064)\]
 </span>
 
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
