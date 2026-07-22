@@ -25,9 +25,8 @@ header:
 <!--span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span> -->
 
 <span class="publication" data-topics="Behavioral Ecology, Climate, Movement Ecology">
-  <span style="color: #4CAF50; font-size: 0.9em; font-weight: bold; text-transform: uppercase; margin-right: 5px;">In press</span>
-  <span class="publication-number">11</span>
-  **Hayes, F.P.**, L.L. Bailey, K.R. Wilson, D. McGrath, M. Biel, and. J. Berger. 2026. High temperatures alter core behaviors of mountain goats (*Oreamnos americanus*), a cold-adapted species. *Mammalogy*. DOI: 10.1093/jmammal/gyag064. \[[Open access](https://doi.org/10.1093/jmammal/gyag064)\]
+    <span class="publication-number">11</span>
+  **Hayes, F.P.**, L.L. Bailey, K.R. Wilson, D. McGrath, M. Biel, and. J. Berger. 2026. High temperatures alter core behaviors of mountain goats (*Oreamnos americanus*), a cold-adapted species. *Mammalogy*. DOI: 10.1093/jmammal/gyag064. \[[Open access](https://doi.org/10.1093/jmammal/gyag064), <a href="./2026_Hayes et al_high temperatures alter core behaviors.pdf">PDF</a>\]
 </span>
 
 <span class="publication" data-topics="Behavioral Ecology, Movement Ecology">
