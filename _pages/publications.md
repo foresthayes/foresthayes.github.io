@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Publications
 permalink: /publications/
 author_profile: true
 
@@ -8,7 +9,6 @@ header:
   caption: "North Park, Colorado 2019"
 ---
 
-# Publications
 --------------------------------------------------------------------------------
 
 <div id="topic-buttons-wrapper">
